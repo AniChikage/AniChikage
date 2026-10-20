@@ -1,3 +1,12 @@
-Building a series of open-source tools for everyday work.
+Building the **Open Project Series** — open-source tools for everyday work.
 
-[Open Typora](https://github.com/AniChikage/open-typora) · [Open Resume](https://github.com/AniChikage/open-resume) · More to come.
+Starting with writing and resume building. The goal is to make useful tools you can run, modify, and make your own.
+
+## Current Projects
+
+### Open Series
+
+- **[Open Typora](https://github.com/AniChikage/open-typora)** — A local-first Markdown editor with live rendering. Write directly on the page and keep ordinary `.md` files.
+- **[Open Resume](https://github.com/AniChikage/open-resume)** — A self-hosted resume builder. All templates included, unlimited resumes, and free exports without watermarks.
+
+More open projects are on the way. [Suggest what I should build next](https://github.com/AniChikage/AniChikage/issues).
