@@ -1,7 +1,5 @@
 Building the **Open Project Series** — open-source tools for everyday work.
 
-Starting with writing and resume building. The goal is to make useful tools you can run, modify, and make your own.
-
 ## Current Projects
 
 ### Open Series
