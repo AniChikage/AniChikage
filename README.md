@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://x.com/AniChikage">X</a> • 
   <a href="https://github.com/AniChikage?tab=repositories">GitHub</a> •
   <a href="https://github.com/AniChikage/AniChikage/issues">Ideas &amp; Feedback</a>
 </p>
