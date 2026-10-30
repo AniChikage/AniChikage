@@ -1,10 +1,33 @@
-Building the **Open Project Series** — open-source tools for everyday work.
+<h1 align="center">Hi, I'm AniChikage</h1>
 
-## Current Projects
+<p align="center">
+  Open-source builder · Local-first apps &amp; self-hosted tools
+</p>
 
-### Open Series
+<p align="center">
+  <a href="https://github.com/AniChikage?tab=repositories">GitHub</a> •
+  <a href="https://github.com/AniChikage/AniChikage/issues">Ideas &amp; Feedback</a>
+</p>
 
-- **[Open Typora](https://github.com/AniChikage/open-typora)** — A local-first Markdown editor with live rendering. Write directly on the page and keep ordinary `.md` files.
-- **[Open Resume](https://github.com/AniChikage/open-resume)** — A self-hosted resume builder. All templates included, unlimited resumes, and free exports without watermarks.
+---
+
+## About Me
+
+- Building the **Open Project Series** — open-source tools for everyday work.
+- Creator of **[Open Typora](https://github.com/AniChikage/open-typora)** and **[Open Resume](https://github.com/AniChikage/open-resume)**.
+- I build tools you can run locally, modify, and make your own.
+
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2b2b2b?style=flat-square&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2b2b2b?style=flat-square&logo=electron&logoColor=white)
+
+## Open Source Projects
+
+- **[Open Typora](https://github.com/AniChikage/open-typora)** — A local-first Markdown editor with live rendering and portable `.md` files.
+- **[Open Resume](https://github.com/AniChikage/open-resume)** — A self-hosted resume builder with all templates, unlimited resumes, and free exports without watermarks.
 
 More open projects are on the way. [Suggest what I should build next](https://github.com/AniChikage/AniChikage/issues).
