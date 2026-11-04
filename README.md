@@ -15,7 +15,7 @@
 ## About Me
 
 - Building the **Open Project Series** — open-source tools for everyday work.
-- Creator of **[Open Typora](https://github.com/AniChikage/open-typora)** and **[Open Resume](https://github.com/AniChikage/open-resume)**.
+- Creator of **[Open Markdown Lane](https://github.com/AniChikage/open-markdown-lane)** and **[Open Resume](https://github.com/AniChikage/open-resume)**.
 - I build tools you can run locally, modify, and make your own.
 
 ## Tech Stack
@@ -28,7 +28,7 @@
 
 ## Open Source Projects
 
-- **[Open Typora](https://github.com/AniChikage/open-typora)** — A local-first Markdown editor with live rendering and portable `.md` files.
+- **[Open Markdown Lane](https://github.com/AniChikage/open-markdown-lane)** (formerly Open Typora) — A local-first Markdown editor with live rendering and portable `.md` files.
 - **[Open Resume](https://github.com/AniChikage/open-resume)** — A self-hosted resume builder with all templates, unlimited resumes, and free exports without watermarks.
 
 More open projects are on the way. [Suggest what I should build next](https://github.com/AniChikage/AniChikage/issues).
